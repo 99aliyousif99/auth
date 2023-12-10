@@ -28,7 +28,7 @@ export default function Home() {
       }
     } catch (error) {
       console.error('Error during login:', error);
-    }
+    } 
   };
   return (
     <main >
